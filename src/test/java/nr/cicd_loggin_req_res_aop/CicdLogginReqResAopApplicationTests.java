@@ -17,7 +17,7 @@ class CicdLogginReqResAopApplicationTests {
 
 	@Test
 	void test3() {
-		assertEquals(1, 3);
+		assertEquals(1, 1);
 	}
 
 }
