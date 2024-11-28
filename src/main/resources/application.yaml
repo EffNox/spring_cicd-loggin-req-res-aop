@@ -1,0 +1,4 @@
+spring:
+  application.name: MS-cicd-loggin-req-res-aop
+  main.banner-mode: off
+  mvc.servlet.path: /api/v1

@@ -1,0 +1,10 @@
+GET {{V1}}/process?in=effnox
+
+###~###~###~###~###~###
+POST {{V1}}/process
+
+{
+   "name": "clean",
+   "description": "clean car",
+   "date": "{{$datetime iso8601}}"
+}
